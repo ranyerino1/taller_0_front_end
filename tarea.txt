@@ -1,0 +1,6 @@
+tarea hacer el index totalmente responsive y una pagina adicional a eleccion tambien responsive 
+evidencia para el viernes en territorium y de sustentacion 
+el resto de paginsa responsive con la tecnica a eleccion("index con flex boxx y css grid")
+subirlo al repositorio y al portafolio 
+adicional hacer un pdf donde se explica como se hizo flex-box y cssgrid con una vista a eleccion  el enlace al portafolio (la carpeta donde esta el proyecto-taller)
+y e enlace al github-repositorio  

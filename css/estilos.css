@@ -41,6 +41,10 @@ nav{
       color: var(--blanco);
       text-decoration: none;
       padding: 1rem;
+}nav a:hover{
+      background-color: #337AB7;
+      width: 100%;
+      transition: 0.7s;
 }.logo img{
       height: 3rem;     
 }#features{
@@ -264,4 +268,11 @@ nav{
 }.desc{
     margin: 2% 3% 3% 5%;
 }
+/*@media para punto de quiebre*/
+@media screen and (min-wiht: 768px){
 
+}
+
+@media screen and (min-wiht: 1024px){
+
+}
