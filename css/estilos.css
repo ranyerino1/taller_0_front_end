@@ -54,7 +54,7 @@ nav{
 .logo img{
       height: 3rem;     
 }#features{
-      background: url(../img/bg-features.png);
+      background: url(../img/index/bg-features.png);
       color: white;
       padding-top: 1rem;
 }.features-title{
@@ -221,8 +221,6 @@ nav{
       height: 100%;
       display: flex;
       justify-content: flex-start;
-      background: url(/img/Group\ 200.svg);
-      background-size: cover;
 
 }.titulo{
       font-size: 1.7em;
@@ -289,10 +287,10 @@ nav{
             width: 30%;
       }
 }
-
-/* Resoluciòn Movile*/
 @media screen and (max-width: 768px) {
-      .logo{
+      nav:hover .menu{
+            display: flex;
+        }.logo{
             background-color: var(--negro2);
             display: flex;
             align-items: center;
@@ -311,20 +309,16 @@ nav{
           font-size: 2rem;
       }
       .menu{
-            background-color: rgba(1, 10, 52, 0.838);
+            background-color: var(--negro2);
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;  
-            
-        }
-        .menu hr{
+        }.menu hr{
             width: 100%;
             background-color: var(--blanco);
-        }
-        .item{
-        padding: 1rem;
-                
+      }.item{
+            padding: 1rem;          
       }
       nav a{
             color: var(--blanco);
@@ -357,7 +351,7 @@ nav{
         }#hijo1{
             width: 100%;
         }#textosl p{
-            font-size: 2em;
+            font-size: 1em;
         }.text-footer{
             display: flex;
             flex-direction: column;
@@ -393,7 +387,7 @@ nav{
         }#op{
             width: 30%;
         }.ip{
-            font-size: 0.9em;
+            font-size: 0.7em;
         }.opiniones{
             overflow: hidden;
         }
